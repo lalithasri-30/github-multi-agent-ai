@@ -1,6 +1,3 @@
-# github-multi-agent-ai
-This project implements a web-based intelligent multi-agent AI system that analyzes GitHub repositories using advanced agentic protocols to automate code review, repository understanding, and developer interaction.
-
 # Intelligent Multi-Agent AI System for GitHub Repository Analysis
 
 ## Overview
@@ -23,17 +20,7 @@ This project aims to build an intelligent multi-agent AI system that analyzes Gi
 - Python (planned for backend agents)
 
 ## Project Structure
-Brief explanation of frontend and backend folders.
-GithubAI/
-├── Frontend/
-|   ├──index.html
-|   ├──style.css
-|   ├──script.js
-├── Backend/
-├── Docs/
-├── README.md
-├── roadmap.md
-└── .gitignore
+The frontend handles user interaction using HTML, CSS, and JavaScript, while the backend is planned to implement a multi-agent AI system for repository analysis.
 
 ## Future Scope
 - Agent-based repository analysis
