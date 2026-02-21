@@ -29,9 +29,5 @@ The frontend handles user interaction using HTML, CSS, and JavaScript, while the
 
 ---
 
-## 👩‍💻 Authors
-- Saladi Lakshmi Narasimha (22P31A4234)
-- Pithani Lalitha Sri (22P31A4230)
-- Pendyala Venkata Ramani Sudeshna (22P31A4250)
-- Parvez Sharief (22P31A4228)
+
 
